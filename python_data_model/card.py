@@ -2,8 +2,7 @@
     author: wangyuxiang
     date: 2020-3-4
 
-    流畅的python：
-        - python 数据类型
+    python 数据类型
 """
 
 import collections
